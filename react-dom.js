@@ -1,5 +1,5 @@
  /**
-  * ReactDOM v15.4.1
+  * ReactDOM v15.4.2
   */
 
 ;(function(f) {
@@ -13006,7 +13006,7 @@ module.exports = ReactUpdates;
 
 'use strict';
 
-module.exports = '15.4.1';
+module.exports = '15.4.2';
 },{}],84:[function(_dereq_,module,exports){
 /**
  * Copyright 2013-present, Facebook, Inc.
